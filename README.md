@@ -2,6 +2,8 @@
 Summary: Fleet Management System, involving development of RESTful APIs to track real-time car readings.
 Technologies: Spring MVC, SpringBoot, MySQL, AWS SES, Docker, Jenkins.
 Data Source: http://mocker.egen.academy/
+
+
 Functionalities:
 1. Developed following REST endpoints for ingestion from: http://mocker.egen.academy/
 - Load vehicle details in bulk via a PUT /vehicles endpoint.
